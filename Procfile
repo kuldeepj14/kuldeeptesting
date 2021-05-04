@@ -1,0 +1,1 @@
+web: gunicorn kuldeeptesting.wsgi --log-file - 
